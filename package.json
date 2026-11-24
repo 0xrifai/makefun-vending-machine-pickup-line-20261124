@@ -1,0 +1,1 @@
+{"description":"One pickup line a vending machine would use on a passing human (make.fun entry, program/v1).","engines":{"node":">=22"},"license":"MIT","name":"makefun-vending-machine-pickup-line-20261124","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
